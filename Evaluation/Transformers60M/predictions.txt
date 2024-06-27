@@ -1,0 +1,302 @@
+Transformer60M Evaluation: BLEU SCORE is 49.43325557584897
+##################
+The cat sat on the mat.
+گربه روی تشک نشست
+
+Is the sky blue?
+آیا آسمان آبی است ؟
+
+Close the door.
+در را ببند.
+
+What a beautiful day!
+چه روز زیبایی!
+
+She loves reading books.
+او عاشق خواندن کتاب است.
+
+Do you like ice cream?
+بستنی دوست داری ؟
+
+Wash your hands.
+دست هایت را بشور.
+
+How amazing this view is!
+چقدر این دیدگاه شگفت انگیز است!
+
+She wanted to go for a walk, but it was raining.
+می خواست برای پیاده روی برود ، اما باران می بارید.
+
+He studied hard for the exam, and he passed with flying colors.
+او برای امتحان سخت مطالعه کرد و با رنگ های پرنده رد شد.
+
+They went to the park, and they had a picnic.
+آن ها به پارک رفتند و پیک نیک داشتند.
+
+She likes tea, but he prefers coffee.
+او چای را دوست دارد ، اما قهوه را ترجیح می دهد.
+
+The dog barked loudly, and the neighbors complained.
+سگ با صدای بلند پارس کرد و همسایه ها شکایت کردند.
+
+Although it was raining, we decided to go hiking.
+اگرچه باران می بارید ، اما تصمیم گرفتیم پیاده روی کنیم.
+
+The book that she gave me was very interesting.
+کتابی که به من داد بسیار جالب بود.
+
+Because he was late, he missed the bus.
+چون دیر شده بود اتوبوس را از دست می داد.
+
+She was happy because she got a new job.
+او خوشحال بود زیرا شغل جدیدی پیدا کرده بود.
+
+Whenever I see her, she is smiling.
+هر وقت او را می بینم ، لبخند می زند.
+
+Although I was tired, I went to the party, and I had a great time.
+اگرچه خسته بودم ، اما به مهمانی رفتم و اوقات خوشی را سپری کردم.
+
+She didn't like the movie because it was too long, but she enjoyed the music.
+او فیلم را دوست نداشت زیرا خیلی طولانی بود ، اما از موسیقی لذت می برد.
+
+Even though he was sick, he went to work, and he finished his project.
+اگرچه او مریض بود ، اما سر کار رفت و پروژه اش را تمام کرد.
+
+The sun was shining, and the birds were singing, which made for a perfect day.
+خورشید می درخشید و پرندگان آواز می خواندند که روز کاملی می ساخت.
+
+Since it was my birthday, I invited friends over, and we celebrated all night.
+از آنجایی که تولد من بود ، دوستان را دعوت کردم و تمام شب را جشن گرفتیم.
+
+It's raining cats and dogs.
+باران گربه و سگ می بارد.
+
+Break a leg!
+یک پا را بشکن!
+
+Piece of cake.
+یک تکه کیک.
+
+He kicked the bucket.
+او سطل را زد.
+
+She let the cat out of the bag.
+گربه را از کیسه بیرون آورد.
+
+I saw her duck.
+اردکش را دیدم
+
+The bank is by the river bank.
+بانک کنار ساحل رودخانه است.
+
+He is a fair man.
+او مرد عادلی است.
+
+Can you see the sea?
+آیا می توانید دریا را ببینید ؟
+
+She will lead the team to the lead.
+او تیم را به سمت سرب هدایت خواهد کرد.
+
+She ran into an old friend at the market.
+او در بازار با یک دوست قدیمی برخورد کرد.
+
+He turned down the job offer.
+پیشنهاد کار را رد کرد.
+
+They are looking forward to the vacation.
+آن ها مشتاقانه منتظر تعطیلات هستند.
+
+Please take out the trash.
+لطفا زباله ها را بردارید
+
+She gave up smoking.
+او سیگار کشیدن را رها کرد.
+
+I don't think that's a good idea.
+. فکر نمی کنم فکر خوبی باشه
+
+Nobody saw the man leave.
+هیچ کس مرد را ندید که رفت.
+
+She hasn't finished her homework yet.
+او هنوز تکالیفش را تمام نکرده است.
+
+There is nothing to worry about.
+چیزی برای نگرانی وجود ندارد.
+
+He never goes to the gym.
+او هرگز به ورزشگاه نمی رود.
+
+She walks to school every day.
+او هر روز به مدرسه می رود.
+
+He visited his grandparents last weekend.
+او آخر هفته گذشته به دیدار پدربزرگ و مادربزرگش رفت.
+
+They will travel to Japan next month.
+آن ها ماه آینده به ژاپن سفر خواهند کرد.
+
+She was reading when I called.
+او داشت می خواند که من زنگ زدم.
+
+He has lived here for ten years.
+او ده سال است که اینجا زندگی کرده است.
+
+The woman who called you is my aunt.
+زنی که تو را صدا کرد عمه من است.
+
+This is the book that I was telling you about.
+این کتابی است که به شما می گفتم.
+
+The car which broke down has been repaired.
+ماشینی که خراب شد تعمیر شده است.
+
+The movie that we watched last night was amazing.
+فیلمی که دیشب تماشا کردیم شگفت انگیز بود.
+
+The person whom you met yesterday is my friend.
+کسی که دیروز با او آشنا شدی دوست من است.
+
+If it rains tomorrow, we will cancel the picnic.
+اگر فردا باران بریزد ، پیک نیک را لغو خواهیم کرد.
+
+Had I known about the meeting, I would have attended.
+اگر در مورد جلسه می دانستم ، شرکت می کردم.
+
+If she had studied harder, she would have passed the exam.
+اگر بیشتر مطالعه می کرد ، امتحان را قبول می کرد.
+
+If I were you, I would take the job.
+اگر من جای شما بودم ، کار را می گرفتم.
+
+Unless he hurries, he will miss the train.
+مگر اینکه با عجله از قطار خارج شود.
+
+She can speak three languages.
+او می تواند سه زبان صحبت کند.
+
+May I leave the table?
+می توانم میز را ترک کنم ؟
+
+You must finish your homework.
+باید تکالیفتو تمام کنی
+
+He should see a doctor.
+باید به دکتر مراجعه کند.
+
+They might come to the party.
+آن ها ممکن است به مهمانی بیایند.
+
+Barack Obama was the 44th President of the United States.
+پر نکته های واقعی ، شهر را در حال حاضر شدن در میان گاری های ارتش های ایالات متحده قرار دادند.
+
+The Eiffel Tower is located in Paris.
+برج ایفل در پاریس قرار دارد.
+
+Apple Inc. is a major technology company.
+سازمان سیب. یک شرکت فناوری اصلی است.
+
+William Shakespeare wrote "Romeo and Juliet."
+ویلیام شکسپیر رومئو و جولیت را نوشت.
+
+Mount Everest is the highest mountain in the world.
+قله اورست بالاترین کوه در جهان است.
+
+The event will be held on July 20, 2023.
+این رویداد در 20 جولای ، 2023 برگزار خواهد شد.
+
+She bought three apples for $1.50 each.
+او هر کدام سه سیب با 1.50 دلار خرید.
+
+He was born on December 25, 1990.
+او در 25 دسامبر 190 متولد شد.
+
+The package weighs 5 kilograms.
+وزن بسته 5 گوش داد.
+
+There are 24 hours in a day.
+در یک روز 24 ساعت وجود دارد.
+
+He said, "I will be there in five minutes."
+گفت : پنج دقیقه دیگه میام اونجا.
+
+"To be or not to be," that's the question.
+، بودن یا نبودن. سوال اینه
+
+She asked, "Can you help me with this?"
+پرسید : « می تونی در این مورد به من کمک کنی ؟»
+
+"I'll call you later," he promised.
+. اون قول داده بعدا بهت زنگ میزنم
+
+"What a wonderful surprise!" she exclaimed.
+چه سورپرایز فوق العاده ای! او فریاد زد.
+
+Despite the traffic, we arrived on time.
+با وجود ترافیک ، به زمان رسیدیم.
+
+She spoke quietly so that nobody could hear her.
+او به آرامی صحبت کرد تا کسی صدای او را بشنود.
+
+While he was cooking, she set the table.
+در حالی که داشت آشپزی می کرد ، میز را مرتب کرد.
+
+They were happy, although they had little money.
+آن ها خوشحال بودند ، اگرچه پول کمی داشتند.
+
+Because it was cold, she wore a coat and gloves.
+چون سرد بود کت و دستکش پوشید.
+
+She sings beautifully, and her brother plays the piano.
+او به زیبایی آواز می خواند و برادرش پیانو می نوازد.
+
+He finished his work early, so he went for a run.
+او زودتر کارش را تمام کرد ، بنابراین برای دویدن رفت.
+
+Unless you try, you will never know.
+مگر اینکه تلاش کنید ، هرگز نمی دانید.
+
+She was not only intelligent but also very kind.
+او نه تنها باهوش بود بلکه بسیار مهربان بود.
+
+As soon as he arrived, the meeting started.
+به محض ورود ، جلسه شروع شد.
+
+Despite the difficulties, they managed to succeed.
+علیرغم مشکلات ، موفق به موفقیت شدند.
+
+Wherever you go, I will follow.
+هر کجا که بروی دنبال خواهم کرد.
+
+The project, which was started last year, is almost complete.
+پروژه ای که سال گذشته شروع شد تقریبا کامل است.
+
+Having finished their lunch, they went back to work.
+پس از اتمام ناهار ، به سر کار برگشتند.
+
+He behaves as if he knows everything.
+طوری رفتار می کند که انگار همه چیز را می داند.
+
+She will not come unless she is invited.
+او نخواهد آمد مگر اینکه دعوت شود.
+
+No sooner had she left than it started raining.
+به محض اینکه او رفت ، باران شروع به باریدن کرد.
+
+The more you practice, the better you become.
+هر چه بیشتر تمرین کنید بهتر می شوید.
+
+He went to the store to buy some groceries.
+او برای خرید مواد غذایی به فروشگاه رفت.
+
+After the movie ended, they went for dinner.
+بعد از پایان فیلم ، آن ها برای شام رفتند.
+
+She plays the violin, and her sister plays the guitar.
+او ویولن می نوازد و خواهرش گیتار می نوازد.
+
+Since you are here, why don't you join us?
+از آنجایی که شما اینجا هستید ، چرا به ما نمی پیوندید ؟
+
